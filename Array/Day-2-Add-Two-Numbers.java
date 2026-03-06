@@ -1,10 +1,7 @@
 /*
 Problem: Add Two Numbers
-
 Platform: LeetCode
-
 Difficulty: Medium
-
 Question:
 You are given two non-empty arrays representing two non-negative integers.
 The digits are stored in reverse order, and each of their elements contains a single digit.
@@ -21,7 +18,6 @@ Explanation:
 Output:
 [7,0,8]
 */
-
 
 public class Day02_AddTwoNumbers {
 
