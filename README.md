@@ -3,5 +3,5 @@
 Day 1 - Two Sum
 Day 2 - Add Two Numbers
 Day 3 - Longest Substring Without Repeating Characters
-
-Problems solved: 3/150
+Day 4 -Median of Two Sorted Arrays
+Problems solved: 4/150
