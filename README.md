@@ -5,4 +5,6 @@ Day 2 - Add Two Numbers
 Day 3 - Longest Substring Without Repeating Characters
 Day 4 -Median of Two Sorted Arrays
 Day 5 - Longest Palindromic Substring solution
-Problems solved: 5/150
+Day 6 - Reverse Integer
+Day 7 - Regular Expression Matching solution
+Problems solved: 7/150
