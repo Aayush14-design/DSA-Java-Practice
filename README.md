@@ -7,4 +7,5 @@ Day 4 -Median of Two Sorted Arrays
 Day 5 - Longest Palindromic Substring solution
 Day 6 - Reverse Integer
 Day 7 - Regular Expression Matching solution
-Problems solved: 7/150
+Day 8-ThreeSum.java
+Problems solved: 8/150
