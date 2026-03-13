@@ -8,4 +8,5 @@ Day 5 - Longest Palindromic Substring solution
 Day 6 - Reverse Integer
 Day 7 - Regular Expression Matching solution
 Day 8-ThreeSum.java
-Problems solved: 8/150
+Completed first 8 days of DSA challenge.
+Now focusing on strengthening DSA concepts.
